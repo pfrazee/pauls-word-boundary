@@ -1,0 +1,22 @@
+{
+  "name": "pauls-word-boundary",
+  "version": "1.0.0",
+  "description": "Find the word boundaries from a given position within a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfrazee/pauls-word-boundary.git"
+  },
+  "author": "Paul Frazee <pfrazee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pfrazee/pauls-word-boundary/issues"
+  },
+  "homepage": "https://github.com/pfrazee/pauls-word-boundary#readme",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
